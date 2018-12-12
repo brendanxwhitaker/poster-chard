@@ -1,3 +1,3 @@
 # poster-chard
 
-<img src="./poster-chard.pdf">
+<img src="./poster-chard-1.png">
