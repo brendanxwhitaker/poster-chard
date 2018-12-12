@@ -1,3 +1,3 @@
 # poster-chard
 
-![](poster-chard.pdf)
+![](poster-chard.svg)
