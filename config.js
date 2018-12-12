@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"poster-chard","author":"","fileName":"poster_chard.pdf","bounds":[[5280,3960]],"bookmarks":[],"thumbnailType":"jpg","pageType":"svg","pageLabels":[]};
