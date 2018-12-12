@@ -1,3 +1,4 @@
 # poster-chard
 
-![](poster-chard.svg)
+![Alt text](./1.svg)
+<img src="./1.svg">
