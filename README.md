@@ -5,7 +5,7 @@
 <img src="./poster-chard-1.png">
 
 
-<script src="//yihui.name/js/math-code.js">
+<script src="./math-code.js">
 
 </script>
 
